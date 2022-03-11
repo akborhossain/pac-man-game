@@ -858,7 +858,7 @@ void maincode_2()
       check_for_collisions_2();
       show_playfield_2();
 
-      Sleep( 1000 / 30 );
+      Sleep( 1000 / 25 );
       set_cursor_position_2(0,0);
    }
 
